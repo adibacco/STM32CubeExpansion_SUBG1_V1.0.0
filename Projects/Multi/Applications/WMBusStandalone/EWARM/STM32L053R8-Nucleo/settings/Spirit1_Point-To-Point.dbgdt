@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1221</ColumnWidth1></Debug-Log>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>915</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>433</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory/>
+        
+        
+      <PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>WATCH_1</Factory></Window></Windows></PreferedWindows><ShowCodeCoverage>1</ShowCodeCoverage><ShowInstrProfiling>1</ShowInstrProfiling></Disassembly>
+    <WATCH_1><expressions><item>g_xStatus</item><item>xRxFrame</item><item>xStartRx</item><item>RxFrameBuff</item><item>cRxlen</item><item>xIndex+1</item><item>TxFrameBuff[xIndex+1] = xTxFrame-&gt;DataLen;</item><item>TxFrameBuff</item><item>trxLength</item><item>fPowerdBm</item><item>xIrqStatus</item><item>sysclockfreq</item><item/></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>152</item><item>150</item><item>100</item><item>158</item></col-widths><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Disassembly</Factory></Window></Windows></PreferedWindows></WATCH_1><Locals><col-names><item>Location</item><item>Type</item><item>Value</item><item>Variable</item></col-names><col-widths><item>150</item><item>100</item><item>100</item><item>100</item></col-widths><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>StaticWatch</Factory></Window><Window><Factory>WATCH_1</Factory></Window></Windows></PreferedWindows></Locals><Find-in-Files><ColumnWidth0>377</ColumnWidth0><ColumnWidth1>62</ColumnWidth1><ColumnWidth2>566</ColumnWidth2><ColumnWidth3>251</ColumnWidth3></Find-in-Files><StaticWatch><expressions><item>xRxDoneFlag</item><item>xIrqStatus</item><item>TxFrameBuff</item><item>xRxFrame</item><item>xTxDoneFlag</item><item>g_xStatus</item><item>xIrqStatus</item><item>i</item><item>xIndex+1</item><item>PushButtonStatusWakeup</item><item>wakeupCounter</item><item>dataSendCounter</item><item/></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>169</item><item>150</item><item>100</item><item>150</item></col-widths><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Locals</Factory></Window><Window><Factory>WATCH_1</Factory></Window></Windows></PreferedWindows></StaticWatch><Breakpoints><col-names><item>Breakpoint</item><item>_I0</item></col-names><col-widths><item>500</item><item>35</item></col-widths></Breakpoints><CallStack><col-names><item>Frame</item><item>_I0</item></col-names><col-widths><item>400</item><item>20</item></col-widths></CallStack><Select-Ambiguous-Definitions><ColumnWidth0>440</ColumnWidth0><ColumnWidth1>62</ColumnWidth1><ColumnWidth2>754</ColumnWidth2></Select-Ambiguous-Definitions></Static>
+    <Windows>
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-28370-23194</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>Spirit1_Point-To-Point</ExpandedNode><ExpandedNode>Spirit1_Point-To-Point/Application</ExpandedNode><ExpandedNode>Spirit1_Point-To-Point/Application/USER</ExpandedNode><ExpandedNode>Spirit1_Point-To-Point/Driver</ExpandedNode><ExpandedNode>Spirit1_Point-To-Point/Driver/BSP</ExpandedNode><ExpandedNode>Spirit1_Point-To-Point/Driver/Spirit1_Driver</ExpandedNode><ExpandedNode>Spirit1_Point-To-Point/Driver/Spirit1_Driver/Spirit1_Util</ExpandedNode></NodeDict></Session>
+          </Tab>
+        <Tab><Identity>TabID-18201-5107</Identity><TabName>Call Stack</TabName><Factory>CallStack</Factory></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd2><Tabs><Tab><Identity>TabID-15964-2488</Identity><TabName>Breakpoints</TabName><Factory>Breakpoints</Factory></Tab><Tab>
+            <Identity>TabID-17622-23190</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab><Tab><Identity>TabID-3918-871</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-32241-20996</Identity><TabName>Ambiguous Definitions</TabName><Factory>Select-Ambiguous-Definitions</Factory><Session/></Tab><Tab>
+            <Identity>TabID-17099-23200</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab></Tabs><SelectedTab>1</SelectedTab></Wnd2><Wnd3><Tabs><Tab><Identity>TabID-26587-13762</Identity><TabName>Watch 1</TabName><Factory>WATCH_1</Factory></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\Drivers\BSP\Components\spirit1\SPIRIT1_Util\Src\SPIRIT1_Util.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>33</YPos2><SelStart2>1442</SelStart2><SelEnd2>1442</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Inc\spirit1_appli.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>40</YPos2><SelStart2>2752</SelStart2><SelEnd2>2752</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Src\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>60</YPos2><SelStart2>3250</SelStart2><SelEnd2>3250</SelEnd2></Tab><ActiveTab>2</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0117A098><key>iaridepm.enu1</key></Toolbar-0117A098></Sizes></Row0><Row1><Sizes><Toolbar-0C5ADEB8><key>debuggergui.enu1</key></Toolbar-0C5ADEB8></Sizes></Row1><Row2><Sizes><Toolbar-0C5AF3D0><key>armstlink.enu1</key></Toolbar-0C5AF3D0></Sizes></Row2></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>552</Bottom><Right>507</Right><x>-2</x><y>-2</y><xscreen>1604</xscreen><yscreen>175</yscreen><sizeHorzCX>1002500</sizeHorzCX><sizeHorzCY>213936</sizeHorzCY><sizeVertCX>318125</sizeVertCX><sizeVertCY>677262</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>552</Bottom><Right>441</Right><x>-2</x><y>-2</y><xscreen>250</xscreen><yscreen>174</yscreen><sizeHorzCX>156250</sizeHorzCX><sizeHorzCY>212714</sizeHorzCY><sizeVertCX>276875</sizeVertCX><sizeVertCY>677262</sizeVertCY></Rect></Wnd3></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>173</Bottom><Right>1602</Right><x>-2</x><y>-2</y><xscreen>1604</xscreen><yscreen>175</yscreen><sizeHorzCX>1002500</sizeHorzCX><sizeHorzCY>213936</sizeHorzCY><sizeVertCX>156875</sizeVertCX><sizeVertCY>213936</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

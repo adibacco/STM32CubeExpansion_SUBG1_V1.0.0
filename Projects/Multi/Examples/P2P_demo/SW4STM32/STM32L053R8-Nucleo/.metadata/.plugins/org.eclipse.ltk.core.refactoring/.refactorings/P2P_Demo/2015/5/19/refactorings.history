@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;P2P_Demo/Driver/BSP/gcc&apos; to &apos;CMSIS&apos;" description="Rename resource &apos;gcc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Driver/BSP/gcc" name="CMSIS" stamp="1430826869542" updateReferences="true"/>
+</session>
